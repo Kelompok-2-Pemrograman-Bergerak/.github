@@ -70,7 +70,11 @@ Beberapa topik yang dikerjakan dalam repository ini:
 npm install
 node server.js
 
-### **Frontend**
+---
+
+### Frontend
 ```bash
 npm install
 ionic serve
+
+---
