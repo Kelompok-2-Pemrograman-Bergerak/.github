@@ -33,6 +33,20 @@ Pengembangan mencakup:
 
 ---
 
+## 📂 Daftar Repository
+
+| No | Nama Presentasi | Nama Repositori | Link Repository |
+|----|-----------------|-----------|-----------------|
+| 1 | **Ifhals Bobi Duhita** | Praktikum 8 | https://github.com/pemrograman-bergerak-ti22d/p15-ojek-siber |
+| 2 | **Ifhals Bobi Duhita** | Praktikum 9 | https://github.com/pemrograman-bergerak-ti22d/p14-dana-kilat |
+| 3 | **Ifhals Bobi Duhita** | Praktikum 10 & 11 | https://github.com/pemrograman-bergerak-ti22d/p13-courier-app |
+| 4 | **Muhammad Hidayat** | Praktikum 12 | https://github.com/pemrograman-bergerak-ti22d/p12-auth-jwt |
+| 5 | **Muhammad Hidayat** | Praktikum 13 | https://github.com/pemrograman-bergerak-ti22d/p10-p11-crud-mahasiswa |
+| 6 | **Joana Deika Pratama** | Praktikum 14 | https://github.com/pemrograman-bergerak-ti22d/p9-inventaris-toko-sederhana |
+| 7 | **Joana Deika Pratama** | Praktikum 15 | https://github.com/pemrograman-bergerak-ti22d/p8-live-grammar-checker |
+
+---
+
 ## 🛠️ Teknologi yang Digunakan
 
 - Ionic Angular  
