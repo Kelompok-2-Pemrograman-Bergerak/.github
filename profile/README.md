@@ -4,9 +4,9 @@
 
 | No | Nama                | NIM        |
 |----|---------------------|-----------|
-| 1  | Muhammad Hidayat    | 220511088 |
-| 2  | Bobi                | 220511000 |
-| 3  | Deka                | 220511000 |
+| 1  | Muhammad Hidayat   | 220511088 |
+| 2  | Ifhals Bobi Duhita | 220511186 |
+| 3  | Joana Deika Pratama | 220511070 |
 
 📚 Mata Kuliah : Pemrograman Bergerak  
 🎓 Program Studi : Teknik Informatika  
